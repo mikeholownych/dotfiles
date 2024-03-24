@@ -1,10 +1,10 @@
 [credential "https://dev.azure.com"]
 	useHttpPath = true
 [user]
-	name = Josh Johanning
-	email = joshjohanning@github.com
+	name = Mike Holownych
+	email = mike.holownych@gmail.com
 [github]
-	user = joshjohanning
+	user = mikeholownych
 [pager]
 	branch = false
 [pull]
